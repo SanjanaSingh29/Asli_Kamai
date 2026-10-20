@@ -1,5 +1,3 @@
-# Asli_Kamai
-
 # 🛵 Asli Kamai (असली कमाई)
 
 **What delivery riders and drivers actually take home.**
